@@ -1,0 +1,40 @@
+section {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    margin: 0 250px 0 250px;
+    font-family: Grey Qo;
+}
+
+h1{
+    font-size: 50px;
+    color: #E8A87C;
+}
+
+h2{
+    font-size: 100px;
+    color: #41b3a3;
+}
+
+h3{
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    text-align: justify;
+    color: #c38d93;
+}
+
+.spacing{
+    letter-spacing: 5px;
+    font-size: small;
+    color: #41b3a3;
+}
+
+.changesForGit:hover {
+    transition: 3s;
+    letter-spacing: 5px;
+    margin: 0;
+color: #41b3a3;
+}
