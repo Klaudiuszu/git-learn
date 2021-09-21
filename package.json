@@ -1,0 +1,26 @@
+{
+  "name": "git-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klaudiuszu/git-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klaudiuszu/git-learn/issues"
+  },
+  "homepage": "https://github.com/Klaudiuszu/git-learn#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  },
+  "dependencies": {
+    "html-validate": "^5.5.0"
+  }
+}
